@@ -1,2 +1,2 @@
-# Strategy-Backtest-with-RandomforestClasification
-Backtest and develop volatility breakout trading strategy ,Analysis performance and improve by Randomforest model and Shap for explain.  
+# Strategy-Backtest-Lab
+Backtest and develop t trading strategy ,Analysis performance and improve by MM model and Machine Lerning.  
